@@ -237,7 +237,8 @@ const HomePage = ({ favorites, toggleFavorite, isFavorite }) => {
               border: 'none',
               color: 'white',
               fontWeight: '600',
-              cursor: 'pointer'
+              cursor: 'pointer',
+              marginLeft:'5rem'
             }}
           >
             Шукати
